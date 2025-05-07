@@ -2,14 +2,12 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: url('Back_Ground.jpg') no-repeat center center fixed;
     background-size: cover;
-    color: #fff;
-    line-height: 1.6;
     margin: 0;
-    padding-top: 60px;
-    scroll-behavior: smooth;
+    padding: 0;
+    color: #fff;
 }
 
-/* Navigation Bar */
+/* Navigation bar */
 .navbar {
     position: fixed;
     top: 0;
@@ -23,8 +21,6 @@ body {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    max-width: 1000px;
-    margin: auto;
     padding: 0 20px;
 }
 
@@ -40,27 +36,56 @@ body {
     color: #4a90e2;
 }
 
-/* Header */
-header {
-    background: rgba(0, 0, 0, 0.6);
-    padding: 60px 20px;
+/* Main content styling */
+.main-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    padding-top: 60px;
+}
+
+.profile-links {
+    margin-bottom: 20px;
+}
+
+.login-btn {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    padding: 8px 16px;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.login-btn:hover {
+    background-color: #4a90e2;
     color: #fff;
 }
 
-/* Sections */
-section {
-    padding: 40px 0;
+.center-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
 }
 
-.about, .projects, .contact {
-    background-color: rgba(255, 255, 255, 0.9);
-    color: #000;
-    margin: 20px auto;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    padding: 20px;
-    max-width: 900px;
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    object-fit: cover;
+}
+
+.name {
+    font-size: 3rem;
+    color: #fff;
+    margin: 0;
 }
 
 /* Footer */
@@ -70,5 +95,7 @@ footer {
     background-color: rgba(0, 0, 0, 0.6);
     color: #ccc;
     font-size: 0.9em;
-    margin-top: 40px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
