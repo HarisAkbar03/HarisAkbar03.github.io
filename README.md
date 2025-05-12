@@ -1,44 +1,51 @@
-# vCard - Personal portfolio
+# 💼 My Developer Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my personal portfolio repository! This portfolio highlights my skills, projects, and experience in full stack software development, mobile app development, Unity game development, database management, and web technologies.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## 📌 About Me
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+I’m a passionate and versatile software developer with experience in building robust desktop and mobile applications, interactive games, and responsive websites. My expertise spans across multiple domains including:
 
-## Prerequisites
+- **Full Stack Java Development**
+- **Android Development with Kotlin & Java**
+- **Unity Game Development (2D/3D)**
+- **Database Design and Management (MySQL, MongoDB)**
+- **Frontend Web Development (HTML, CSS, JavaScript, React)**
 
-Before you begin, ensure you have met the following requirements:
+Currently pursuing my degree at **Farmingdale State College**, I bring a global perspective and a strong foundation built through previous studies and hands-on projects.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+---
 
-## Installing vCard
+## 🛠️ Tech Stack
 
-To install **vCard**, follow these steps:
+- **Languages**: Java, Kotlin, C#, JavaScript, SQL, HTML, CSS
+- **Frameworks**: Spring Boot, React, Node.js, Express.js
+- **Mobile**: Jetpack Compose, Android Studio
+- **Game Dev**: Unity Engine (C#)
+- **Databases**: MySQL, SQLite, MongoDB
+- **Tools**: Git, GitHub, IntelliJ, VS Code, Postman, Firebase
 
-Linux and macOS:
+---
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## 🚀 Live Portfolio Website
 
-Windows:
+Check out the live version of my portfolio: [https://HarisAkbar03.github.io](https://HarisAkbar03.github.io)
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+📷 Screenshots
+![image](https://github.com/user-attachments/assets/ae87e87c-e458-4b1c-8536-370f3e3b5fdd)
+![image](https://github.com/user-attachments/assets/75aa6178-15af-42d5-b5ed-7d312dab97a9)
 
-## Contact
+📬 Contact Me
+Feel free to connect with me for freelance projects, internships, or collaborations:
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+✉️ Email: ha.akbar03@gmail.com
 
-## License
+💼 LinkedIn: linkedin.com/in/HarisAkbar
 
-MIT
+🖥️ Portfolio: https://HarisAkbar03.github.io
+
+
+
+
